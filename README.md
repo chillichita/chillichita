@@ -23,6 +23,7 @@ Backend-leaning developer who likes things simple and well-structured.
   <img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=9e9e9e" alt="Figma"/>
 </p>
 
----
+<br/>
 
-> 📌 *Currently thinking about:* "No matter how beautiful, no matter how cool your interface, it would be better if there were less of it." — Alan Cooper
+> 📌 *Currently thinking about:*
+> "No matter how beautiful, no matter how cool your interface, it would be better if there were less of it." — Alan Cooper
