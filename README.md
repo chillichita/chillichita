@@ -1,10 +1,8 @@
-<img align="left" width="50%" alt="coffee-steam-transparent" src="https://github.com/user-attachments/assets/2541d6e4-65f2-4f08-91af-c4f78d8f6ab0" />
-
 ## Hi, I'm Polina! 👋
 
-Backend-leaning developer who likes things simple and well-structured.
+<img align="right" width="300" alt="coffee-steam-transparent" src="https://github.com/user-attachments/assets/2541d6e4-65f2-4f08-91af-c4f78d8f6ab0" />
 
-<br clear="left"/>
+Backend-leaning developer who likes things simple and well-structured.
 
 ### About me
 
