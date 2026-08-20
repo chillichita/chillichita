@@ -24,6 +24,8 @@ Backend-leaning developer who likes things simple and well-structured.
 </p>
 
 <br/>
+<br/>
+<br/>
 
 > 📌 *Currently thinking about:*
 > "No matter how beautiful, no matter how cool your interface, it would be better if there were less of it." — Alan Cooper
